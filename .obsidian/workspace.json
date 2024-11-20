@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b036f674e8f8b8",
+        "id": "64f036d9434f6b55",
         "type": "tabs",
         "children": [
           {
-            "id": "ee071e8ecb118de1",
+            "id": "24579c2cf3dfd51d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "main.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "main"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "main.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of main"
             }
           },
           {
@@ -175,11 +181,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "0a7db965d51e3383",
+  "active": "24579c2cf3dfd51d",
   "lastOpenFiles": [
+    "propositions/Precise 3D hand tracking.md",
+    "_templates/paper.md",
+    "papers/cox2023haptic.md",
+    "propositions/MediapipeHands is good.md",
+    "main.md",
+    "propositions/3D hand tracking implementation.md",
+    "propositions/3D hand tracking setup.md",
+    "propositions/Hand tracking setup.md",
+    "papers/reimer2023evaluation.md",
+    "_templates",
+    "propositions",
+    "fulltext_web_link/reimer2023evaluation.md",
     "Welcome.md"
   ]
 }

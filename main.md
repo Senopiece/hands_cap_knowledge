@@ -1,0 +1,1 @@
+Ground truth hand pose: [[Precise 3D hand tracking]]
