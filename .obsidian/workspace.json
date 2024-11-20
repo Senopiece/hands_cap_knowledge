@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ede26f15894f401",
+        "id": "b9b036f674e8f8b8",
         "type": "tabs",
         "children": [
           {
-            "id": "215fb203fbf60603",
+            "id": "ee071e8ecb118de1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -184,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "215fb203fbf60603",
+  "active": "0a7db965d51e3383",
   "lastOpenFiles": [
     "Welcome.md"
   ]
