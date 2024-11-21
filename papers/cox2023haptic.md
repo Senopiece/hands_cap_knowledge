@@ -1,3 +1,5 @@
+#comparison
+#cam_hand_tracking #continuous_hand_traking
 
 > [Full text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/54DCCD6A90756BB291B3DB7CE6651115/S2732527X23001979a.pdf/div-class-title-from-haptic-interaction-to-design-insight-an-empirical-comparison-of-commercial-hand-tracking-technology-div.pdf)
 
@@ -12,3 +14,6 @@
   publisher={Cambridge University Press}
 }
 ```
+
+Citates
+- 

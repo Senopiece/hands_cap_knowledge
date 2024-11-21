@@ -1,14 +1,43 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#emg_hand_tracking tag:#continuous_hand_traking  tag:#implementation  ",
+      "color": {
+        "a": 1,
+        "rgb": 3049983
+      }
+    },
+    {
+      "query": "tag:#emg_hand_tracking tag:#implementation  ",
+      "color": {
+        "a": 1,
+        "rgb": 5538249
+      }
+    },
+    {
+      "query": "path:papers  ",
+      "color": {
+        "a": 1,
+        "rgb": 9479350
+      }
+    },
+    {
+      "query": "path:propositions  ",
+      "color": {
+        "a": 1,
+        "rgb": 16225862
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 1.0000000000000002,
+  "close": false
 }

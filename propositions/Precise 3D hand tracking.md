@@ -1,5 +1,7 @@
+#criteria
+#cam_hand_tracking #hand_ground_truth
 
-Relying on [[MediapipeHands is good]] and applying mediapipe for  there are the points for constant precise hand pose estimation:
+Relying on [[MediapipeHands is good]] and applying mediapipe as the most accurate hand track method we have - there are the points for constant precise hand pose estimation:
 - More fps per camera
 - More camera resolution
 - 2+ cameras, more - better
