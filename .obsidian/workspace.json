@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/simar2024machine.md",
+                "file": "papers/liu2021neuropose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "simar2024machine"
+              "title": "liu2021neuropose"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#classification",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/simar2024machine.md"
+                "file": "papers/liu2021neuropose.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of simar2024machine"
+              "title": "Outline of liu2021neuropose"
             }
           },
           {
@@ -186,23 +186,25 @@
   },
   "active": "95b92b3fc8e333e0",
   "lastOpenFiles": [
-    "papers/yoshikawa2007hand.md",
-    "papers/simar2024machine.md",
+    "papers/phinyomark2012application.md",
+    "papers/liu2021neuropose.md",
     "papers/raurale2019emg.md",
+    "papers/englehart2001wavelet.md",
+    "papers/chu2006real.md",
+    "papers/chu2007supervised.md",
+    "papers/cox2023haptic.md",
+    "2024-11-22.md",
+    "papers/simar2024machine.md",
+    "papers/yoshikawa2007hand.md",
     "Main.md",
     "propositions/How to make a litreview.md",
     "propositions/What we have on our project to consider for litreview.md",
     "Onboarding & Conventions.md",
-    "papers/phinyomark2012application.md",
     "propositions/Best features of EMG.md",
     "propositions/Dimensionality reduction approaches.md",
-    "papers/englehart2001wavelet.md",
-    "papers/chu2007supervised.md",
-    "papers/chu2006real.md",
     "propositions/KFD over LDA.md",
     "propositions/Why a dimensionality reduction after features extraction is needed.md",
     "propositions/LDA is the common choice for dimensionality reduction.md",
-    "papers/cox2023haptic.md",
     "[chu2007supervised.md",
     "propositions/MediapipeHands is good.md",
     "propositions/Precise 3D hand tracking.md",
@@ -210,8 +212,6 @@
     "papers.md",
     "().md",
     "_templates/paper.md",
-    "2024-11-21.md",
-    "propositions/3D hand tracking implementation.md",
     "_templates",
     "propositions"
   ]
