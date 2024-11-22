@@ -8,7 +8,7 @@ Data Acquisition:
 5. signal to features [[Best features of EMG]]
 
 Model (learned with supervision):
-	1. Preprocess (TODO) - account for EMD, convolution, filters, add a per channel network? features dimensionality reduction [[Dimensionality reduction approaches]]
+	1. Preprocess (TODO) - account for EMD [[Need to consider EMD]], convolution, filters, add a per channel network? features dimensionality reduction [[Dimensionality reduction approaches]]
 	2. Use MLP/KAN/Transformer/LSTM/etc.. (TODO)
 	3. Output vector format (TODO)
 	4. Ground truth hand pose: [[Precise 3D hand tracking]]

@@ -1,0 +1,1 @@
+[[ngeo2014continuous]] along with defining a muscle activation state for a big thing to consider: a electromyography delay, see deeper links for details
