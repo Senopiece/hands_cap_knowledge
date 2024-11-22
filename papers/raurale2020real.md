@@ -4,7 +4,7 @@
 #200Hz_sampling_rate
 #8_bit_adc
 #embeded
-#iemg_feature #rss_feature #msv_feature #variance_feature #rms_feature #kurtosis_feature #skewness_feature #arm_feature
+#iemg_feature #rss_feature #msv_feature #var_feature #rms_feature #kurtosis_feature #skewness_feature #arm_feature
 #lda_dimensionality_reducer #pca_dimensionality_reducer 
 #mlp_classifier #svm_classifier #kNN_classifier
 #classification
