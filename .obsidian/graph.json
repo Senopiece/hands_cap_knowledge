@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#emg_hand_tracking tag:#continuous_hand_traking  tag:#implementation  ",
-      "color": {
-        "a": 1,
-        "rgb": 3049983
-      }
-    },
-    {
-      "query": "tag:#emg_hand_tracking tag:#implementation  ",
+      "query": "tag:#emg_hand_tracking tag:#implementation  tag:#classification  ",
       "color": {
         "a": 1,
         "rgb": 5538249
+      }
+    },
+    {
+      "query": "tag:#emg_hand_tracking  tag:#implementation ",
+      "color": {
+        "a": 1,
+        "rgb": 3049983
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000002,
-  "close": false
+  "scale": 1.2364424905719493,
+  "close": true
 }

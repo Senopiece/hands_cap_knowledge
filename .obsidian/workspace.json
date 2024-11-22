@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "Onboarding & Conventions"
             }
-          },
-          {
-            "id": "c474a6bcb0995133",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -62,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#emg_hand_tracking",
+                "query": "tag:#classification",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,18 +181,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "95b92b3fc8e333e0",
   "lastOpenFiles": [
     "Main.md",
-    "papers/cox2023haptic.md",
+    "Onboarding & Conventions.md",
+    "papers/phinyomark2012application.md",
     "papers/raurale2019emg.md",
+    "propositions/Best features of EMG.md",
+    "propositions/Dimensionality reduction approaches.md",
+    "papers/englehart2001wavelet.md",
+    "papers/chu2007supervised.md",
+    "papers/chu2006real.md",
+    "propositions/KFD over LDA.md",
+    "propositions/Why a dimensionality reduction after features extraction is needed.md",
+    "propositions/LDA is the common choice for dimensionality reduction.md",
+    "papers/cox2023haptic.md",
+    "[chu2007supervised.md",
     "propositions/MediapipeHands is good.md",
     "propositions/Precise 3D hand tracking.md",
-    "Onboarding & Conventions.md",
+    "LDA.md",
     "papers.md",
     "().md",
     "_templates/paper.md",
@@ -213,7 +213,6 @@
     "papers/reimer2023evaluation.md",
     "_templates",
     "propositions",
-    "fulltext_web_link/reimer2023evaluation.md",
-    "Welcome.md"
+    "fulltext_web_link/reimer2023evaluation.md"
   ]
 }

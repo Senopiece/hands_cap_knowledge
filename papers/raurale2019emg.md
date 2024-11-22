@@ -1,5 +1,13 @@
 #implementation
-#emg_hand_tracking #discrete_hand_tracking
+#emg_hand_tracking
+#8_channels
+#200Hz_sampling_rate
+#embeded
+#iemg_feature #netural_log_of_variance_feature #rss_feature
+#kfd_dimentionality_reducer
+#rbf_network_classifier
+#classification
+#motion
 
 > [Full text](https://www.researchgate.net/publication/332791552_EMG_Wrist-hand_Motion_Recognition_System_for_Real-time_Embedded_Platform)
 
@@ -15,4 +23,6 @@
 ```
 
 Citates
-- 
+- [[chu2007supervised]]
+- [[chu2006real]]
+- [[phinyomark2012application]]
