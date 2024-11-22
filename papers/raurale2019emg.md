@@ -2,6 +2,7 @@
 #emg_hand_tracking
 #8_channels
 #200Hz_sampling_rate
+#8_bit_adc
 #embeded
 #iemg_feature #netural_log_of_variance_feature #rss_feature
 #kfd_dimentionality_reducer

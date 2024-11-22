@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/liu2021neuropose.md",
+                "file": "papers/raurale2020real.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "liu2021neuropose"
+              "title": "raurale2020real"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/liu2021neuropose.md"
+                "file": "papers/raurale2020real.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of liu2021neuropose"
+              "title": "Outline of raurale2020real"
             }
           },
           {
@@ -186,9 +186,10 @@
   },
   "active": "95b92b3fc8e333e0",
   "lastOpenFiles": [
-    "papers/phinyomark2012application.md",
-    "papers/liu2021neuropose.md",
     "papers/raurale2019emg.md",
+    "papers/raurale2020real.md",
+    "papers/liu2021neuropose.md",
+    "papers/phinyomark2012application.md",
     "papers/englehart2001wavelet.md",
     "papers/chu2006real.md",
     "papers/chu2007supervised.md",
@@ -211,7 +212,6 @@
     "LDA.md",
     "papers.md",
     "().md",
-    "_templates/paper.md",
     "_templates",
     "propositions"
   ]
