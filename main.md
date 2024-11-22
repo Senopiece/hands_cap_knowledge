@@ -1,8 +1,9 @@
 Data Acquisition:
 1. minimal number of channels (TODO)
-2. minimal sampling rate (TODO)
-3. signal filter (TODO)
-4. signal to features [[Best features of EMG]]
+2. electrode placement (TODO)
+3. minimal sampling rate (TODO)
+4. signal filter (TODO)
+5. signal to features [[Best features of EMG]]
 
 Model (learned with supervision):
 	1. Preprocess (TODO) - account for EMD, convolution, filters, add a per channel network? features dimensionality reduction [[Dimensionality reduction approaches]]
