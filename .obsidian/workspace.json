@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/yoshikawa2007hand.md",
+                "file": "papers/simar2024machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "yoshikawa2007hand"
+              "title": "simar2024machine"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/yoshikawa2007hand.md"
+                "file": "papers/simar2024machine.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of yoshikawa2007hand"
+              "title": "Outline of simar2024machine"
             }
           },
           {
@@ -186,8 +186,9 @@
   },
   "active": "95b92b3fc8e333e0",
   "lastOpenFiles": [
-    "papers/raurale2019emg.md",
     "papers/yoshikawa2007hand.md",
+    "papers/simar2024machine.md",
+    "papers/raurale2019emg.md",
     "Main.md",
     "propositions/How to make a litreview.md",
     "propositions/What we have on our project to consider for litreview.md",
@@ -211,7 +212,6 @@
     "_templates/paper.md",
     "2024-11-21.md",
     "propositions/3D hand tracking implementation.md",
-    "propositions/3D hand tracking setup.md",
     "_templates",
     "propositions"
   ]
