@@ -1,3 +1,5 @@
+## The project
+
 Data Acquisition:
 1. minimal number of channels (TODO)
 2. electrode placement (TODO)
@@ -12,4 +14,8 @@ Model (learned with supervision):
 	4. Ground truth hand pose: [[Precise 3D hand tracking]]
 	5. Loss function (TODO)
 	6. Per-user dynamic adaptation? (maybe)
+
+## The report
+
+[[How to make a litreview]]
 

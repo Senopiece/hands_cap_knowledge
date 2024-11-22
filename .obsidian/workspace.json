@@ -186,9 +186,11 @@
   },
   "active": "95b92b3fc8e333e0",
   "lastOpenFiles": [
+    "propositions/How to make a litreview.md",
+    "propositions/What we have on our project to consider for litreview.md",
+    "Main.md",
     "papers/raurale2019emg.md",
     "Onboarding & Conventions.md",
-    "Main.md",
     "papers/phinyomark2012application.md",
     "propositions/Best features of EMG.md",
     "propositions/Dimensionality reduction approaches.md",
@@ -210,9 +212,7 @@
     "propositions/3D hand tracking implementation.md",
     "propositions/3D hand tracking setup.md",
     "propositions/Hand tracking setup.md",
-    "papers/reimer2023evaluation.md",
     "_templates",
-    "propositions",
-    "fulltext_web_link/reimer2023evaluation.md"
+    "propositions"
   ]
 }
