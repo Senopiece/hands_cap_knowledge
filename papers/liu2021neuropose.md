@@ -8,6 +8,7 @@
 #motion
 #steady
 #continuous 
+#cam_hand_tracking 
 
 > [Full text](https://www.cse.psu.edu/~mkg31/papers/Neuropose_www.pdf)
 
