@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/tenore2008decoding.md",
+                "file": "propositions/Need to consider EMD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tenore2008decoding"
+              "title": "Need to consider EMD"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/tenore2008decoding.md"
+                "file": "propositions/Need to consider EMD.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of tenore2008decoding"
+              "title": "Outline of Need to consider EMD"
             }
           },
           {
@@ -186,9 +186,12 @@
   },
   "active": "95b92b3fc8e333e0",
   "lastOpenFiles": [
+    "propositions/How to make a litreview.md",
+    "propositions/Dimensionality reduction approaches.md",
+    "propositions/Best features of EMG.md",
+    "papers/tenore2008decoding.md",
     "papers/ngeo2014continuous.md",
     "papers/yoshikawa2007hand.md",
-    "papers/tenore2008decoding.md",
     "Main.md",
     "propositions/Need to consider EMD.md",
     "papers/raurale2020real.md",
@@ -201,11 +204,8 @@
     "papers/cox2023haptic.md",
     "2024-11-22.md",
     "papers/simar2024machine.md",
-    "propositions/How to make a litreview.md",
     "propositions/What we have on our project to consider for litreview.md",
     "Onboarding & Conventions.md",
-    "propositions/Best features of EMG.md",
-    "propositions/Dimensionality reduction approaches.md",
     "propositions/KFD over LDA.md",
     "propositions/Why a dimensionality reduction after features extraction is needed.md",
     "propositions/LDA is the common choice for dimensionality reduction.md",

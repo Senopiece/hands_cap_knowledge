@@ -1,3 +1,4 @@
+
 ### **1. Background on EMG Signal Processing**
 
 - Overview of **EMG signals** and their physiological basis.
